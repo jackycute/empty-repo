@@ -1,7 +1,7 @@
 GitHub App PoC
 ===
 
-[Test for create] sadfasdfasdfasdf
+[Test for create]
 
 
 Run this server

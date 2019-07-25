@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 GitHub App PoC
 ===
 
@@ -37,3 +38,19 @@ Show repo file tree
 Show repo file contents
 ---
 - Visit http://localhost:3000/contents/:owner/:repo/:path?ref=master to show your repo file contents
+=======
+asdfalksjdhflkasdf
+asd
+fa
+sdf
+a
+sdf
+a
+sdf
+as
+df
+
+<a href="tel://123-456-7890">123-456-7890</a>
+
+<a href="mailto://123-456-7890">123-456-7890</a>
+>>>>>>> 56d060604df68675ff16af45ce8ce7d1e7d6a96b

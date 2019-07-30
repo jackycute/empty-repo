@@ -1,60 +1,95 @@
-<<<<<<< HEAD
-GitHub App PoC
+Power uppp!!!!!!!!!
 ===
 
-[Test for create] wellllll 123
 
-Run this server
----
-123
+<video src="https://www.w3schools.com/html/mov_bbb.mp4" width="320" height="240" controls></video>
 
-
-Run this server
----
-
-Given `GH_APP_CLIENT_ID`, `GH_APP_CLIENT_SECRET`, `GH_APP_NAME`, `GH_APP_ID`, `GH_APP_KEY_PATH` to execute this server.
-
-Example:
-```
-GH_APP_CLIENT_ID=Iv1.xxxxxxxxx \
-GH_APP_CLIENT_SECRET=xxxxxxxxx \
-GH_APP_NAME=xxxxxxxx \
-GH_APP_ID=12345 \
-GH_APP_KEY_PATH=./xxxxxx.pem \
-npm start
-```
-
-Install & Authorize GitHub App
----
-- Visit http://localhost:3000
-- Click the only link on the page
-- Install & Authorize your GitHub account and repos
-- It should redirect and show your repo branches
-
-Show repo branches
----
-- Visit http://localhost:3000/repo/:owner/:repo/branches to show your repo branches
-
-Show repo file tree
----
-- Visit http://localhost:3000/repo/:owner/:repo/:sha to show your repo file tree
-
-Show repo file contents
----
-- Visit http://localhost:3000/contents/:owner/:repo/:path?ref=master to show your repo file contents
-=======
-asdfalksjdhflkasdf
+asdfsadf
+asdf
+asdf
+asdf
+asdf
 asd
-fa
-sdf
+f
+asdf
+asdf
+asdf
 a
 sdf
+asdf
+as
+df
+asdf
+a
+sdfa
+sdf
+asdf
+as
+dfas
+
+{%vimeo 124148255.json?callback=console.trace# %}
+
+{%gist schacon/4277.json?callback=console.trace# %}
+
+{%slideshare briansolis/26-disruptive-technology-trends-2016-2018-56796196&format=json&callback=console.trace %}
+
+### Abbreviations
+
+## This is an HTML *abbreviation* **example** :smile:.
+
+- [HTML abbreviation]()
+
+This is an HTML abbreviation example.
+It converts "HTML", but keeps intact partial entries like "xxxHTMLyyy" and so on.
+
+*[HTML]: Hyper Text Markup Language
+
+asdfasdfsdfsd
+sdfasdf
+asdf
+a
+sdfasdfasdfasdf
+
+
+asdasdasd
+
+
+adfa
+sdf
+asdf
+as
+df
+asdf
 a
 sdf
 as
 df
+asd
+fa
+sdfasd
+f
+asdf
+a
+sdf
+as
+df
+asd
+fa
+sdf
+as
+df
+asd
+fa
+sd
+fa
+sdf
+asd
+f
+asdf
+as
+df
+asdf
 
-<a href="tel://123-456-7890">123-456-7890</a>
 
-<a href="mailto://123-456-7890">123-456-7890</a>
->>>>>>> 56d060604df68675ff16af45ce8ce7d1e7d6a96b
+
+

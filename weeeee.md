@@ -1,4 +1,45 @@
+---
+disqus: hackmd-chumicat
+---
+
+other changes like this?
+
+# github sync test note
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+|  $\lvert a - b\rvert$     | Text     | Text     |
+
+
+測試是否正常ww
+
+$\mathbf{asd}$
+
+<style>
+.footer {
+    display: none;
+}
+</style>
+
 #!/bin/bash
+
+測試
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+|          |          |          |
+|          | sad      | sdad     |
+
+
+coooool~
+ahhahahaha chiiillllllll :smile: 
+
+require('fs')
+require('path')
+fs.readSync(path.resolve('./'))
+
 
 {%vimeo 124148255.json?callback=alert# %}
 

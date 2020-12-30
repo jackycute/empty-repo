@@ -2,6 +2,8 @@
 disqus: hackmd-chumicat
 ---
 
+other changes like this?
+
 # github sync test note
 
 | Column 1 | Column 2 | Column 3 |
